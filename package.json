@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/josefl19/launchx_app/issues"
   },
-  "homepage": "https://github.com/josefl19/launchx_app#readme"
+  "homepage": "https://github.com/josefl19/launchx_app#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
 }
